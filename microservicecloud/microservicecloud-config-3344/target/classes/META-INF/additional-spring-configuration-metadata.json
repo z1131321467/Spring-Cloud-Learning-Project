@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.cloud.config.server.git.privateKey",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.server.git.privateKey'"
+  },
+  {
+    "name": "spring.cloud.config.server.git.ignoreLocalSshSettings",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.cloud.config.server.git.ignoreLocalSshSettings'"
+  }
+]}
